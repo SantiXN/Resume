@@ -1,0 +1,6 @@
+baseURL = 'https://SantiXN.github.io/OVOS/'
+languageCode = 'en-us'
+theme = "typo"
+
+[params]
+theme = 'light'
